@@ -1,2 +1,2 @@
-# harvard.pro
+# ha
 Поисковик
